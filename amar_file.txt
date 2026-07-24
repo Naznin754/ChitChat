@@ -3,3 +3,5 @@ hiii tonni
 
  naaaa ami side e jabonaaa
  natok
+
+now you have the idea of how branching and pulling works. congrats new git speacialist<<3
